@@ -1,2 +1,11 @@
+<div align="center">
+
 # 7a
-A progress tracking app for climbers !
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/for-sharks.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/made-with-vue.svg)](http://forthebadge.com)
+
+**A progress tracking app for climbers !**
+
+</div>
