@@ -9,3 +9,12 @@
 **A progress tracking app for climbers !**
 
 </div>
+
+## v0.0.0
+
+## TODO
+
+- [x] Repo
+- [ ] Logos
+- [ ] Database
+- [ ] technology choice
