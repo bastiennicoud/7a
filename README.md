@@ -17,4 +17,4 @@
 - [x] Repo
 - [ ] Logos
 - [ ] Database
-- [ ] technology choice
+- [x] technology choice
