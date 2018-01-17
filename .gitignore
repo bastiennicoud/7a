@@ -2,6 +2,12 @@
 .DS_Store
 .DS_Store?
 /.idea
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
 Thumbs.db
 
 # Env variables
@@ -23,6 +29,10 @@ jspm_packages/
 .npm
 
 # Vue specific
+/dist/
+/test/unit/coverage/
+/test/e2e/reports/
+selenium-debug.log
 
 # Vagrant
 /.vagrant
